@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "gear_engine",
+  "gear_engine-editor"
+]
+
